@@ -8,9 +8,9 @@ More information will be added over time.
 Best regards,
 João Copetti
 
-====================================================================================================================================================================================
+======================================================================================================================================================
 
-Este repositório tem o intuito de mostrar minha evolução como cientista de dados, com todos os pequenos e grandes avanços que faço na minha jornada para me tornar um 
+Este repositório tem o intuito de mostrar minha evolução como cientista de dados, com todos os pequenos e grandes avanços que faço na minha jornada para me tornar um
 cientista/analista de dados excepcional.
 Os projetos estão sendo desenvolvidos no VS Code, utilizando a extensão do Jupyter em arquivos .ipynb, e posteriormente convertidos para arquivos .py antes de serem publicados.
 Conto com a ajuda do curso "Formação Cientista de Dados: O Curso Completo", criado por Fernando Amaral e disponibilizado na Udemy.
